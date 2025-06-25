@@ -1,11 +1,29 @@
-# Jayabeersutar
-Robotics &amp; Embedded Systems | STM32 • ESP32 • ROS2 • UAVs • PCB Design
 # 👋 Hi, I'm Jayabeer Sutar
 
 🚀 Robotics & Embedded Systems Developer  
-📍 STM32 • ESP32 • ROS2 • SLAM • PCB Design • UAVs
+🛠️ Skills: STM32 | ESP32 | ROS2 | SLAM | UAVs | PCB Design
 
-I'm focused on building autonomous drone systems, custom flight controllers, and embedded real-time applications. Passionate about open-source robotics and flying tech.
+---
 
-📫 Reach me at: jayabeerpinkunu@gmail.com
-🌐 Portfolio: [https://jayabeersutar.github.io](https://jayabeersutar.github.io)  
+## 🧠 About Me
+I'm focused on building embedded drone systems, flight controllers, and real-time autonomous robotics using STM32, ESP32, and ROS2. Passionate about open-source UAV tech.
+
+---
+
+## 📌 Skills
+- ⚙️ Embedded C, C++, MicroPython
+- 🧠 ROS2, SLAM, Navigation Stack
+- 📡 PX4, ArduPilot, MAVLink
+- 🔧 KiCad, PCB Design, Circuit Debugging
+- 🐧 Ubuntu, Jetson Nano, Raspberry Pi
+
+---
+
+## 🔗 Connect With Me
+- 🌐 [Portfolio Website](https://jayabeersutar.github.io)
+- 📫 Email: jayabeerpinkunu@gmail.com
+- 💼 [LinkedIn](https://https://www.linkedin.com/in/jayabeer-sutar-128350263/)
+- 💻 [GitHub](https://github.com/jayabeersutar)
+
+---
+
